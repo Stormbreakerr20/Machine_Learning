@@ -1,7 +1,0 @@
-timm
-wandb
-torch
-einops
-accelerate
-bitsandbytes
-transformers
